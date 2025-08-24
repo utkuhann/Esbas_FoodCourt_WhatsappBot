@@ -1,0 +1,8 @@
+1. Kalıcı tokenin yoksa çalıştırmadan önce metadevelopers hesabından generate access token oluştur.
+2. VS code Terminali aç dotnet run komutunu yaz
+3. Bilgisayar termianlini aç ve '   ' sunucusuna bağlan
+4. Ngrok tan aldığın https://6714b5569fd9.ngrok-free.app linkini kopyala
+5. Meta developerstaki whatsapp API ->config-> webhook menusune 3. maddedeki linki yapıştır.
+6. linkin sonuna /api/whatsapp/webhook ekle
+7. Verify tokeni appsettings.json dosyasından bul ve gir. 
+ 
